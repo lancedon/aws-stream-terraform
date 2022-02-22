@@ -7,6 +7,7 @@
 3) Get the repository (git clone https://github.com/lancedon/aws-stream-terraform.git)
 
 4) On the project folder, go to tf folder and run:
+	- terraform init
 	- terraform plan
 	- terraform apply (yes)
 
